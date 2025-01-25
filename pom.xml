@@ -13,7 +13,7 @@
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- Define the JavaFX SDK path -->
-        <javafx.module.path>C:/path/to/javafx-sdk-21/lib</javafx.module.path> <!-- Change this path -->
+        <javafx.module.path>C:/path/to/javafx-sdk-21/lib</javafx.module.path>
     </properties>
 
     <dependencies>
